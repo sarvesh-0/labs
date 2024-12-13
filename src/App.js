@@ -3,6 +3,7 @@ import './App.css';
 import Footer from './FooterComponent';
 import Header from './HeaderComponent';
 import Items from './ItemParent';
+import ContactComponent from './ContactComponent';
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
     <Header></Header>
     <Items></Items>
     <Footer></Footer>
+    <ContactComponent></ContactComponent>
     </>
   );
 }
